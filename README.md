@@ -52,6 +52,7 @@
 - **Settling Decentralized Multi-Agent Coordinated Exploration by Novelty Sharing** [Link](https://arxiv.org/pdf/2402.02097)
 - **Intrinsic Action Tendency Consistency for Cooperative Multi-Agent Reinforcement Learning** [Link](https://arxiv.org/pdf/2406.18152v1)
 - **RGMComm: Return Gap Minimization via Discrete Communications in Multi-Agent Reinforcement Learning** [Link](https://arxiv.org/pdf/2308.03358)
+-  **PMAC: Personalized Multi-Agent Communication**
 
 ### Games
 - **Bidirectional Temporal Plan Graph: Enabling Switchable Passing Orders for More Efficient Multi-Agent Path Finding Plan Execution** [Link](https://arxiv.org/pdf/2401.00315)
