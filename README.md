@@ -56,6 +56,7 @@
 
 ### Games
 - **Bidirectional Temporal Plan Graph: Enabling Switchable Passing Orders for More Efficient Multi-Agent Path Finding Plan Execution** [Link](https://arxiv.org/pdf/2401.00315)
+-  **Adaptive Anytime Multi-Agent Path Finding Using Bandit-Based Large Neighborhood Search** [Link](https://arxiv.org/pdf/2312.16767)
 - **Transition-Informed Reinforcement Learning for Large-Scale Stackelberg Mean-Field Games** [Link](https://github.com/IpadLi/SMFG)
 - **U-Trustworthy Models. Reliability, Competence, and Confidence in Decision-Making** [Link](https://arxiv.org/pdf/2401.02062)
 -  **Learning Discrete-Time Major-Minor Mean Field Games** [Link](https://arxiv.org/pdf/2312.10787)
