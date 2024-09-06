@@ -58,6 +58,7 @@
 - **Bidirectional Temporal Plan Graph: Enabling Switchable Passing Orders for More Efficient Multi-Agent Path Finding Plan Execution** [Link](https://arxiv.org/pdf/2401.00315)
 - **Transition-Informed Reinforcement Learning for Large-Scale Stackelberg Mean-Field Games** [Link](https://github.com/IpadLi/SMFG)
 - **U-Trustworthy Models. Reliability, Competence, and Confidence in Decision-Making** [Link](https://arxiv.org/pdf/2401.02062)
+-  **Learning Discrete-Time Major-Minor Mean Field Games** [Link](https://arxiv.org/pdf/2312.10787)
 
 ### NAS
 - **PerFedRLNAS: One-for-All Personalized Federated Neural Architecture Search**   [Link](https://github.com/TL-System/plato/tree/main/)
