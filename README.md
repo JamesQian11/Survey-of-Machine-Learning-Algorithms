@@ -67,9 +67,10 @@
 - **PerFedRLNAS: One-for-All Personalized Federated Neural Architecture Search**   [Link](https://github.com/TL-System/plato/tree/main/)
 - **EG-NAS: Neural Architecture Search with Fast Evolutionary Exploration**  [Link](https://github.com/caicaicheng/EG-NAS)
 
-### RL for Science
-- **Towards Automated RISC-V Microarchitecture Design with Reinforcement Learning** [Link](https://github.com/baichen318/rl-explorer)
+### AI for Science
+-  **Towards Automated RISC-V Microarchitecture Design with Reinforcement Learning** [Link](https://github.com/baichen318/rl-explorer)
 -  **Accelerating Cutting-Plane Algorithms via Reinforcement Learning Surrogates** [Link](https://arxiv.org/pdf/2307.08816)
+- **DMMR: Cross-Subject Domain Generalization for EEG-Based Emotion Recognition via Denoising Mixed Mutual Reconstruction** [Link](https://github.com/CodeBreathing/DMMR)
 
 ## [2024 ICLR](https://openreview.net/group?id=ICLR.cc/2024/Conference)
 
