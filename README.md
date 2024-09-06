@@ -57,6 +57,9 @@
 - **PerFedRLNAS: One-for-All Personalized Federated Neural Architecture Search**   [Link](https://github.com/TL-System/plato/tree/main/)
 - **EG-NAS: Neural Architecture Search with Fast Evolutionary Exploration**  [Link](https://github.com/caicaicheng/EG-NAS)
 
+### RL for Chips
+- **Towards Automated RISC-V Microarchitecture Design with Reinforcement Learning** [Link](https://github.com/baichen318/rl-explorer)
+
 ## [2024 ICLR](https://openreview.net/group?id=ICLR.cc/2024/Conference)
 
 ## [2024 IJCAI](https://ijcai24.org/main-track-accepted-papers/)
