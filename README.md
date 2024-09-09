@@ -89,6 +89,7 @@
 ## [2024 KDD](https://dl.acm.org/doi/proceedings/10.1145/3637528)
 ### AI for Science
 - **Semi-Supervised Learning for Time Series Collected at a Low Sampling Rate** [Link](https://dl.acm.org/doi/pdf/10.1145/3637528.3672033)
+- **Calibration of Time-Series Forecasting Detecting and Adapting Context-Driven Distribution Shif** [Link](https://dl.acm.org/doi/pdf/10.1145/3637528.3671926)
 
 ## [2024 NeurIPS](https://openreview.net/group?id=NeurIPS.cc/2024)
 
