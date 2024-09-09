@@ -100,6 +100,8 @@
 - **SensitiveHUE: Multivariate Time Series Anomaly Detection by Enhancing the Sensitivity to Normal Patterns** [Link](https://dl.acm.org/doi/pdf/10.1145/3637528.3671919)
 - **AutoXPCR: Automated Multi-Objective Model Selection for Time Series Forecasting** [Link](https://dl.acm.org/doi/pdf/10.1145/3637528.3672057)
 - **PATE: Proximity-Aware Time Series Anomaly Evaluation** [Link](https://dl.acm.org/doi/pdf/10.1145/3637528.3671971)
+- **CAFO: Feature-Centric Explanation on Time Series Classification** [Link](https://dl.acm.org/doi/pdf/10.1145/3637528.3671724)
+- **ReCTSi: Resource-efficient Correlated Time Series Imputation via Decoupled Pattern Learning and Completeness-aware Attentions** [Link](https://dl.acm.org/doi/pdf/10.1145/3637528.3671816)
 
 
 ## [2024 NeurIPS](https://openreview.net/group?id=NeurIPS.cc/2024)
