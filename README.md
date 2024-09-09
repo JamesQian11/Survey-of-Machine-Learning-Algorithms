@@ -90,6 +90,9 @@
 ### AI for Science
 - **Policy-Based Bayesian Active Causal Discovery with Deep Reinforcement Learning** [Link](https://dl.acm.org/doi/pdf/10.1145/3637528.3671705)
 
+### NAS 
+- **Automatic Multi-Task Learning Framework with Neural Architecture Search in Recommendations** [Link](https://dl.acm.org/doi/pdf/10.1145/3637528.3671705)
+
 ### TS
 - **Semi-Supervised Learning for Time Series Collected at a Low Sampling Rate** [Link](https://dl.acm.org/doi/pdf/10.1145/3637528.3672033)
 - **Calibration of Time-Series Forecasting Detecting and Adapting Context-Driven Distribution Shif** [Link](https://dl.acm.org/doi/pdf/10.1145/3637528.3671926)
