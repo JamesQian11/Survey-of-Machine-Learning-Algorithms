@@ -87,6 +87,8 @@
 - **Controlling Behavioral Diversity in Multi-Agent Reinforcement Learning** [Link](https://arxiv.org/pdf/2405.15054) 
 
 ## [2024 KDD](https://dl.acm.org/doi/proceedings/10.1145/3637528)
+### AI for Science
+- **Semi-Supervised Learning for Time Series Collected at a Low Sampling Rate** [Link](https://dl.acm.org/doi/pdf/10.1145/3637528.3672033)
 
 ## [2024 NeurIPS](https://openreview.net/group?id=NeurIPS.cc/2024)
 
